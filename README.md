@@ -1,6 +1,6 @@
 ### Been
 
-`Been` is convenience wrapper around justine.lol's amazing [`redbean`](https://justine.lol/redbean/) project.
+`Been` allows you to convert a statically exported web app into a single executable. It's a simple convenience wrapper around justine.lol's amazing [`redbean`](https://justine.lol/redbean/) project.
 
 ### What is redbean
 
