@@ -13,7 +13,7 @@ Redbean makes it possible to distribute a web application as a single-file execu
 ```sh
 been ./dist
 
-# ./dist.com created
+# ./dist.com server created
 ./dist.com -p 8080
 ```
 
