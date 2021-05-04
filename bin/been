@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+BUILD_DIR=$(pwd)/$1
+EXE_PATH=$BUILD_DIR.com
+curl https://justine.lol/redbean/redbean-latest.com > $EXE_PATH
+chmod +x $EXE_PATH
+(cd $BUILD_DIR && zip -r $EXE_PATH .)
